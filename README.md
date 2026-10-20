@@ -43,4 +43,4 @@ python student_scores.py
 
 ## Author
 
-Your Name
+Amare Misgana
